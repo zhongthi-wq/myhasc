@@ -1,0 +1,1 @@
+$g=New-Object IO.Compression.GzipStream($m,[IO.Compression.CompressionMode]::Decompress)

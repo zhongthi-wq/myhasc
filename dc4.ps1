@@ -1,0 +1,1 @@
+$r=New-Object IO.StreamReader($g)
