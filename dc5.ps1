@@ -1,1 +1,1 @@
-$rukp=$r.ReadToEnd();.
+$rukp=$r.ReadToEnd();
